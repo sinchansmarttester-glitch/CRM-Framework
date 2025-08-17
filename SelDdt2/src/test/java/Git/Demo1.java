@@ -8,6 +8,8 @@ public class Demo1 {
 		System.out.println("avi");
 		System.out.println("avishek");
 		System.out.println("avirup");
+
 	}
+	
 
 }
